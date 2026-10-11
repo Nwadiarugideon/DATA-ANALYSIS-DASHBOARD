@@ -33,6 +33,17 @@ To transform raw sales data into meaningful insights that help identify business
 10. What is the total quantity of products sold?
 -<a href="https://github.com/Nwadiarugideon/DATA-ANALYSIS-DASHBOARD/blob/main/Screenshot%20(426)(1).png">Dashboard interaction<a/>
 
+## Data Analysis Process
+
+1. **Data Quality Assessment:** Inspected the dataset for missing values, duplicate records, inconsistencies, and anomalies.
+2. **Data Cleaning:** Addressed identified data quality issues and ensured consistency across relevant fields.
+3. **Exploratory Data Analysis (EDA):** Examined sales, profit, quantity, discounts, product categories, customer segments, and regional performance.
+4. **KPI Development:** Identified key performance indicators to evaluate business performance.
+5. **Data Aggregation:** Used Excel PivotTables to summarize and compare sales metrics across different business dimensions.
+6. **Dashboard Development:** Created interactive visualizations, KPI summaries, and regional filters to communicate findings effectively.
+7. **Business Insights:** Analyzed trends and performance to identify top customers, sales representatives, product categories, and regions.
+
+## Dashboard Preview
 ## Skills Demonstrated
 Data Analysis | Excel | Data Visualization | Business Intelligence | Analytical Thinking
 
