@@ -44,6 +44,8 @@ To transform raw sales data into meaningful insights that help identify business
 7. **Business Insights:** Analyzed trends and performance to identify top customers, sales representatives, product categories, and regions.
 
 ## Dashboard Preview
+<img width="1561" height="707" alt="Screenshot (426)(1)" src="https://github.com/user-attachments/assets/26fd6ccc-a947-4207-9dd3-052ceec2be10" />
+
 ## Skills Demonstrated
 Data Analysis | Excel | Data Visualization | Business Intelligence | Analytical Thinking
 
