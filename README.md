@@ -46,7 +46,18 @@ To transform raw sales data into meaningful insights that help identify business
 ## Dashboard Preview
 <img width="1561" height="707" alt="Screenshot (426)(1)" src="https://github.com/user-attachments/assets/26fd6ccc-a947-4207-9dd3-052ceec2be10" />
 
+## Project Insights
+- **Revenue:** Generated approximately $2.30 million in total sales.
+- **Top Category:** Technology recorded the highest sales.
+- **Customer Segment:** Consumer customers contributed the largest share of revenue.
+- **Regional Performance:** The West region recorded the highest sales.
+- **Shipping:** Standard Class was the most frequently used shipping method.
+- **Profitability:** Total profit was approximately $286,397.
+
 ## Skills Demonstrated
 Data Analysis | Excel | Data Visualization | Business Intelligence | Analytical Thinking
+
+## Conclusion
+The business should prioritize high-performing product categories, strengthen customer retention, investigate regional sales opportunities, and monitor profit margins to improve profitability and drive sustainable growth.
 
 **Author:** Gideon Nwadiaru
